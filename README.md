@@ -1,3 +1,3 @@
 # jmathewburns.github.io
 
-## Go away.
+## This is *not* the readme you're looking for.
